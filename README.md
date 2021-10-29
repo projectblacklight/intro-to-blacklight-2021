@@ -9,9 +9,9 @@ During the workshop you will be learning to customize Blacklight while following
 If you are new to Ruby on Rails development we recommend the following guide to get started: https://gorails.com/setup/ . This will help you set up the Ruby and Rails requirements for the workshop.
 
 ## Development system requirements:
-- Install Ruby (2.7.1 recommended) https://gorails.com/setup#ruby
+- Install Ruby (2.7.4 recommended) https://gorails.com/setup#ruby
 - Java version 8 or higher (for solr). See the Solr documentation for how to check this
-https://lucene.apache.org/solr/guide/8_4/solr-system-requirements.html#java-requirements
+https://lucene.apache.org/solr/guide/8_10/solr-system-requirements.html#java-requirements
 
 ### To test your setup..
 Clone https://github.com/projectblacklight/intro-to-blacklight-2021
